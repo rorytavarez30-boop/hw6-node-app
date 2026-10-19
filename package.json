@@ -1,0 +1,12 @@
+{
+  "name": "hw6-node-app",
+  "version": "1.0.0",
+  "description": "HW6 sample Node.js app built by Jenkins from a public GitHub repo",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "node --test",
+    "build": "node scripts/build.js"
+  },
+  "license": "MIT"
+}
